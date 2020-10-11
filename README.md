@@ -1,1 +1,1 @@
-# Sector (Platformer battleroyale based on web technologies)
+# Sector (Platformer battleroyale web game)
